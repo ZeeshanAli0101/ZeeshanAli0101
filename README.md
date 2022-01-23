@@ -3,9 +3,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Software Engineering
-- 🌱 I’m currently learning ...AI and Java
-- 👯 I’m looking to collaborate on ...Python and Java
-- 🤔 I’m looking for help with ...AI
+- 🌱 I’m currently learning ...php and Laravel
+- 👯 I’m looking to collaborate on ...Python, php, Laravel
+- 🤔 I’m looking for help with ... Python
 - 💬 Ask me about ...AnyThing about Programming Languages
 - 📫 How to reach me: ...Gmail: zeeshanfarhad2494@gmail.com ,  Twitter (https://twitter.com/ZEESHAN51545600) 
 - 😄 Pronouns: ...He/Him
