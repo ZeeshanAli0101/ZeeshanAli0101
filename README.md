@@ -3,8 +3,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Software Engineering
-- 🌱 I’m currently learning ...php and Laravel
-- 👯 I’m looking to collaborate on ...Python, php, Laravel
+- 🌱 I’m currently learning ...Mobile Development(Flutter)
+- 👯 I’m looking to collaborate on ...Python
 - 🤔 I’m looking for help with ... Python
 - 💬 Ask me about ...AnyThing about Programming Languages
 - 📫 How to reach me: ...Gmail: zeeshanfarhad2494@gmail.com ,  Twitter (https://twitter.com/ZEESHAN51545600) 
